@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FinstraCodeChallenges" parent="Theme.Material3.Light">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimary">@color/black</item>
+    </style>
+
+    <style name="Theme.FinstraCodeChallenges" parent="Base.Theme.FinstraCodeChallenges" />
+</resources>
